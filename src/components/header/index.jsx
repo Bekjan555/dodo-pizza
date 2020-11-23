@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../../assets/logo.svg';
+import './styles.scss';
 
 const Header = () => {
     return (
@@ -17,6 +18,7 @@ const Header = () => {
                             </div>
                         </div>
                     </div>
+                    
                 </div>
             </div>
         </header>
